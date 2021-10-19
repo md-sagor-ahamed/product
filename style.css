@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.add-product{
+    display: block;
+    width: 100%;
+}
+.alertFunc{
+line-height: 0;
+margin: 2px 0;
+padding: 0 0 25px 20px;
+
+}
